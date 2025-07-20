@@ -1,0 +1,9 @@
+{
+  "inputs": [],
+  "servers": {
+    "json-placeholder-mcp": {
+      "type": "http",
+      "url": "http://localhost:9090/"
+    }
+  }
+}
