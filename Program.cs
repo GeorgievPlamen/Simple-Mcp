@@ -1,4 +1,5 @@
 using Simple_Mcp.Services;
+using Simple_Mcp.Tools;
 
 var builder = WebApplication.CreateBuilder(args);
 
